@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shaik Thamkin Banu
-
 Aspiring Data Analyst skilled in SQL, Python, Excel, Power BI, and Tableau. I turn raw data into clear, actionable insights.
+
+📄 [Download My Resume](https://github.com/thamkinshaik/thamkin-data-analyst-portfolio/blob/main/Shaik_Thamkin_Banu_Data_Analyst_Resume.pdf)
 
 ## 🔧 Projects
 
